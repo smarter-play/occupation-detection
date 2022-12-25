@@ -1,0 +1,27 @@
+/home/carmine/Downloads/People_Presence/People_Presence/People_Presence_Max78K/build/max9867.o: \
+ /home/carmine/MaximSDK/Libraries/Boards/MAX78000/FTHR_RevA/../../../MiscDrivers/CODEC/max9867.c \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/i2c.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_sys.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_device.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Include/core_cm4.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Include/core_cmInstr.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Include/core_cmFunc.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Include/core_cm4_simd.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ /home/carmine/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/lpgcr_regs.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /home/carmine/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/i2c_regs.h \
+ /home/carmine/MaximSDK/Libraries/Boards/MAX78000/FTHR_RevA/../../../MiscDrivers/CODEC/max9867.h
