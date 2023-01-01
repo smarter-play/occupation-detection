@@ -8,4 +8,4 @@ Code is an adapted version of the Deep Vision Consulting People Detection exampl
 
 The board can get (5V) power from its USB port or from the VBUS pin on the schematic.
 
-The red built-in LED and the detection output signal on pin P1_6 (fourth on the 12-pin row starting from the white battery connector) stays HIGH (at around 1.5V) while the board is detecting people (by taking pictures with its builtin camera and passing them through a CNN).
+The red built-in LED and the detection output signal on pin P3_1 (third on the 12-pin row starting from the black line-out audio connector (opposite the USB connector, on the side of the white battery connector)) stays HIGH (at around 3.3V) while the board is detecting people (by taking pictures with its builtin camera and passing them through a CNN).

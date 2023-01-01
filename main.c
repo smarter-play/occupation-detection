@@ -40,8 +40,8 @@
 #include "led.h"
 #include "dma.h"
 
-#define OUT_PORT MXC_GPIO1
-#define OUT_PIN MXC_GPIO_PIN_6
+#define OUT_PORT MXC_GPIO3
+#define OUT_PIN MXC_GPIO_PIN_1
 
 #define BAUD_RATE 		115200
 #define CAMERA_FREQ		10 * 1000 * 1000

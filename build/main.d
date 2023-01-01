@@ -1,5 +1,4 @@
-/home/carmine/Downloads/People_Presence/People_Presence/People_Presence_Max78K/build/main.o: \
- main.c \
+/home/carmine/gits/occupation-detection/build/main.o: main.c \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \

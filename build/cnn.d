@@ -1,5 +1,4 @@
-/home/carmine/Downloads/People_Presence/People_Presence/People_Presence_Max78K/build/cnn.o: \
- cnn.c \
+/home/carmine/gits/occupation-detection/build/cnn.o: cnn.c \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdlib.h \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
  /home/carmine/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
